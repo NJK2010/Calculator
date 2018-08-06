@@ -1,0 +1,15 @@
+input[type=button], select {
+    background-color:rgb(206, 202, 202);
+    border: none;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+input[type=button]:hover {
+    background-color: rgb(170, 177, 170);
+}
+
